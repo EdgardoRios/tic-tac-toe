@@ -49,3 +49,7 @@ body {
     margin-left: 20px;
   }
   
+  .game-status {
+    text-align: center;
+    color: brown;
+  }
